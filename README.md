@@ -55,6 +55,8 @@ Whether I’m building a plant care tracker or a book discovery app, I approach 
 
 ---
 
+![Monisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
 ## 📫 Let's Connect
 
 - 🔗  
