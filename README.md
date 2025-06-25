@@ -57,8 +57,6 @@ Whether I’m building a plant care tracker or a book discovery app, I approach 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monishaRema&layout=compact)](https://github.com/monishaRema)
-[![trophy](https://github-profile-trophy.vercel.app/?username=monishaRema&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Streak](https://streak-stats.demolab.com?user=monishaRema&theme=highcontrast)
 
 
 ## 📫 Let's Connect
