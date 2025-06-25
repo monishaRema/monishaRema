@@ -1,7 +1,7 @@
 <img src="https://github.com/monishaRema/monishaRema/blob/main/Github%20Profile.png">
 
 ## 🙋‍♀️ About Me
-<p>I loves turning ideas into functional, user-friendly websites and applications. I specialize in building clean and responsive interfaces using React, Tailwind CSS, and Next.js, while actively growing my backend skills with Node.js, Express, and MongoDB.
+<p>I love turning ideas into functional, user-friendly websites and applications. I specialize in building clean and responsive interfaces using React, Tailwind CSS, and Next.js, while actively growing my backend skills with Node.js, Express, and MongoDB.
 What drives me is the opportunity to create tools that are not only helpful but also meaningful. I'm passionate about writing clean, reusable code and constantly learning new technologies to improve both user experience and code quality.
 Whether I’m building a plant care tracker or a book discovery app, I approach each project with curiosity, intention, and a commitment to performance and accessibility</p>
 
