@@ -21,45 +21,39 @@ Whether I’m building a plant care tracker or a book discovery app, I approach 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  ![Firebase Auth](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
 
 ### Learning Next  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  
-![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=flat)  
-![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=white&style=flat)  
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)  
-![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-111827?style=flat&logoColor=white)
-
-### Next Goals  
-- ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)  (GitHub Actions, Vercel, Netlify)  
-- ![Design System](https://img.shields.io/badge/-Design_System-E10098?style=flat&logo=storybook&logoColor=white) (Component libraries, scalable tokens)  
-- ![Testing](https://img.shields.io/badge/-Testing-25A162?logo=jest&logoColor=white&style=flat) (Jest, React Testing Library, Cypress)  
-- API Security: OAuth, JWT, Role-Based Access Control  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=flat)  ![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=white&style=flat)  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)  ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-111827?style=flat&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white) ![Design System](https://img.shields.io/badge/-Design_System-E10098?style=flat&logo=storybook&logoColor=white)
 - Performance Optimization: Advanced React patterns, code splitting, lazy loading  
-- Deployment, Analytics, Monitoring  
-
-
+- Deployment, Analytics, Monitoring
 
 ---
 
-## 📈 Currently Working On
+📈 Currently Working On
 
-- 📦 Parcel Delivery App – A full-stack application using React, Firebase Auth, Node.js, Express, and MongoDB Atlas, featuring an interactive map for real-time delivery tracking.
-- 🎨 Exploring advanced UI animations with GSAP, Framer Motion, and enhanced user interaction using custom React Hooks.
+- SouqFresh – Building a multivendor grocery e-commerce platform with real-time product listings and vendor management.
+<sub>Tech stack: React, Firebase Auth, Node.js, Express, TypeScript, PostgreSQL (Supabase), Prisma</sub>
+
+- UI & UX Upgrades – Experimenting with advanced UI animations (GSAP), accessibility best practices, and hardcore performance optimization.
 
 ---
 
-## 📦 Featured Projects
 
-- 📚 **Book Case** – A server-rendered Node.js + MongoDB API for managing a personal book collection.
-- 🌿 **Plant Tracker** – A full-stack app to track your plant care routine using React + Firebase + MongoDB.
-- 💼 **Career Code** – A responsive job board built with React, Tailwind, and dynamic routing.
-- 📖 **Book Vibe** – A book discovery frontend experience with a modern UI and filtering system.
+📦 Featured Projects
 
+- TazaDeal – Multi-vendor e-commerce app featuring real-time price tracking, role-based access control, and Stripe integration for secure payments.
+
+- BookCase – RESTful server-rendered app for managing a personal book collection.
+<sub>Node.js, Express, MongoDB</sub>
+
+- Planto – Full-stack plant care tracker to manage routines and reminders for your plant collection.
+<sub>React, Firebase Auth, MongoDB</sub>
+
+- CareerCode – Responsive job board with dynamic routing, advanced filtering, and a clean, modern UI.
+<sub>React, Tailwind CSS</sub>
+
+---
 
 ## 🎯 Goals for 2025
 
