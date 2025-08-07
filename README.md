@@ -10,7 +10,6 @@ Whether I’m building a plant care tracker or a book discovery app, I approach 
 - 🧠 Currently learning advanced **React**, **Next.js**, **TypeScript**, and **Framer Motion** for top-tier UI/UX.
 - 🛠️ Building full-stack projects with **Node.js**, **Express**, **MongoDB**, and **Firebase Authentication**.
 
----
 
 ## 🧰 Tech Stack
 
@@ -57,8 +56,6 @@ Deployment, Analytics, Monitoring
 - Land a role as a **frontend engineer or full-stack developer** in a company
 - Contribute to open-source projects.
 - Launch a portfolio of products that support **eco-conscious living and businesses**.
-
----
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monishaRema&layout=compact)](https://github.com/monishaRema)
