@@ -25,22 +25,19 @@ Whether I’m building a plant care tracker or a book discovery app, I approach 
 
 ### Learning Next  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=flat)  ![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?logo=mui&logoColor=white&style=flat)  ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=flat)  ![Shadcn UI](https://img.shields.io/badge/-Shadcn_UI-111827?style=flat&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white) ![Design System](https://img.shields.io/badge/-Design_System-E10098?style=flat&logo=storybook&logoColor=white)
-- Performance Optimization: Advanced React patterns, code splitting, lazy loading  
-- Deployment, Analytics, Monitoring
+Performance Optimization: Advanced React patterns, code splitting, lazy loading  
+Deployment, Analytics, Monitoring
 
----
 
-📈 Currently Working On
+## 📈 Currently Working On
 
 - SouqFresh – Building a multivendor grocery e-commerce platform with real-time product listings and vendor management.
 <sub>Tech stack: React, Firebase Auth, Node.js, Express, TypeScript, PostgreSQL (Supabase), Prisma</sub>
 
 - UI & UX Upgrades – Experimenting with advanced UI animations (GSAP), accessibility best practices, and hardcore performance optimization.
 
----
 
-
-📦 Featured Projects
+## 📦 Featured Projects
 
 - TazaDeal – Multi-vendor e-commerce app featuring real-time price tracking, role-based access control, and Stripe integration for secure payments.
 
@@ -53,7 +50,6 @@ Whether I’m building a plant care tracker or a book discovery app, I approach 
 - CareerCode – Responsive job board with dynamic routing, advanced filtering, and a clean, modern UI.
 <sub>React, Tailwind CSS</sub>
 
----
 
 ## 🎯 Goals for 2025
 
